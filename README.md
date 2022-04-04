@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasfernandesp
 - 👀 I’m interested in software development and database management.
 - 🌱 I’m currently learning python, improving some skills in javascript and mobile development
-- 💞️ I’m looking to collaborate on public repositories that uses differents architetures that i'm used to.
+- 💞️ I’m looking to collaborate on public repositories that uses differents architectures that i'm used to.
 - 📫 How to reach me: Linkedn page: https://www.linkedin.com/in/lucasfernandespereira/
 
 <!---
